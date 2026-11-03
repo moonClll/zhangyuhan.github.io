@@ -33,7 +33,7 @@ My current research focuses on three directions: unsupervised anomaly detection 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">CVPR 2027</div>
+<div class="badge">Psychology-Driven Emotion Estimation</div>
 <img src='images/psychology-skill.png' alt='Psychology-skill-driven continuous visual emotion analysis' width='100%'>
 </div>
 </div>
@@ -43,9 +43,7 @@ My current research focuses on three directions: unsupervised anomaly detection 
 
 *CVPR 2027 submission · March 2026 – Present*
 
-Psychology-informed reasoning skills for multimodal large language models, designed to improve continuous visual emotion analysis.
-
-**Scope:** Experiments across **nine continuous visual emotion analysis datasets**.
+Researching psychology-theory-driven methods for multimodal large language models to estimate continuous emotions from images, improving emotion estimation accuracy and interpretability.
 
 [View research details]({{ '/research/psychology-skill/' | relative_url }})
 
@@ -55,7 +53,7 @@ Psychology-informed reasoning skills for multimodal large language models, desig
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">CVPR 2027</div>
+<div class="badge">RL-Based Affective Editing</div>
 <img src='images/affective-agent.png' alt='Agent-based affective image generation and editing' width='100%'>
 </div>
 </div>
@@ -65,9 +63,7 @@ Psychology-informed reasoning skills for multimodal large language models, desig
 
 *CVPR 2027 submission · March 2026 – Present*
 
-Agent-based affective image generation and editing, focusing on prompt complexity, diffusion encoder configurations, and emotion-oriented reward strategies.
-
-**Preliminary result:** The NDCG-based strategy reached **0.72** emotion classification accuracy and **30** FID.
+Researching affective image editing methods that combine reinforcement learning with dual verification mechanisms to jointly optimize target emotion enhancement and visual content fidelity.
 
 [View research details]({{ '/research/affective-agent/' | relative_url }})
 
@@ -77,7 +73,7 @@ Agent-based affective image generation and editing, focusing on prompt complexit
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">IEEE CASE 2026</div>
+<div class="badge">Multi-Illumination Defect Detection</div>
 <img src='images/sagr-overview.png' alt='Synergistic appearance and geometry reconstruction for multi-illumination anomaly detection' width='100%'>
 </div>
 </div>
@@ -87,9 +83,7 @@ Agent-based affective image generation and editing, focusing on prompt complexit
 
 *IEEE CASE 2026 · Third author · September 2025 – March 2026*
 
-Unsupervised industrial anomaly detection under changing illumination and geometry, combining appearance and geometric information for anomaly localization.
-
-**Key result:** **87.0% I-AUROC** and **92.6% AUPRO** on M2AD, improving upon Dinomaly by **4.0** and **6.7** percentage points.
+Exploring multi-illumination visual information fusion methods for industrial surface anomaly detection under complex lighting, improving the detection and localization of small defects.
 
 [View research details]({{ '/research/sagr/' | relative_url }})
 
@@ -161,11 +155,6 @@ Developed an agricultural ecosystem modeling framework to study species interact
 
 Tianjin, China
 
-# Honors and Awards
-
-- **Third Prize (National Level)** — National College Student Computer Skills Competition, Database Design, 2026.
-- **Meritorious Winner (M Award)** — Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM), 2025.
-
 # Technical Skills
 
 - **Programming Languages:** Python, C++, C, Java, SQL.
@@ -209,7 +198,7 @@ Tianjin, China
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">CVPR 2027</div>
+<div class="badge">心理学理论驱动情感估计</div>
 <img src='images/psychology-skill.png' alt='心理学技能驱动的连续视觉情绪分析' width='100%'>
 </div>
 </div>
@@ -219,9 +208,7 @@ Tianjin, China
 
 *CVPR 2027 投稿 · 2026 年 3 月 – 至今*
 
-为多模态大语言模型设计心理学知识驱动的推理技能，提升连续视觉情绪分析能力。
-
-**实验范围：** 覆盖 **9 个连续视觉情绪分析数据集**。
+研究心理学理论驱动的多模态大语言模型图像连续情感估计方法，提升情感估计的准确性与可解释性。
 
 [查看研究详情]({{ '/research/psychology-skill/' | relative_url }})
 
@@ -231,7 +218,7 @@ Tianjin, China
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">情感人工智能</div>
+<div class="badge">强化学习情感编辑</div>
 <img src='images/affective-agent.png' alt='基于智能体的情感图像生成与编辑' width='100%'>
 </div>
 </div>
@@ -241,9 +228,7 @@ Tianjin, China
 
 *CVPR 2027 投稿 · 2026 年 3 月 – 至今*
 
-探索基于智能体的情感图像生成与编辑，重点关注提示词复杂度、扩散编码器配置和面向情绪的奖励策略。
-
-**初步结果：** 基于 NDCG 的策略取得 **0.72** 的情绪分类准确率和 **30** 的 FID。
+研究强化学习与双重验证机制的图像情感编辑方法，实现目标情绪增强与视觉内容保真的协同优化。
 
 [查看研究详情]({{ '/research/affective-agent/' | relative_url }})
 
@@ -253,7 +238,7 @@ Tianjin, China
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">IEEE CASE 2026</div>
+<div class="badge">多光照缺陷检测</div>
 <img src='images/sagr-overview.png' alt='多光照异常检测的外观与几何协同重建' width='100%'>
 </div>
 </div>
@@ -263,9 +248,7 @@ Tianjin, China
 
 *IEEE CASE 2026 · 第三作者 · 2025 年 9 月 – 2026 年 3 月*
 
-面向光照和几何条件变化的无监督工业异常检测，结合外观信息与几何信息进行异常定位。
-
-**关键结果：** 在 M2AD 上取得 **87.0% I-AUROC** 和 **92.6% AUPRO**，相较 Dinomaly 分别提升 **4.0** 和 **6.7 个百分点**。
+探索在复杂光照下工业表面异常检测的多光照视觉信息融合方法，提升微小缺陷检测与定位能力。
 
 [查看研究详情]({{ '/research/sagr/' | relative_url }})
 
@@ -336,11 +319,6 @@ Tianjin, China
 *2024 年 9 月 – 2028 年 7 月（预计）*
 
 中国，天津
-
-# 荣誉与奖项
-
-- **全国三等奖**——全国大学生计算机技能竞赛，数据库设计，2026 年。
-- **Meritorious Winner（M 奖）**——数学建模竞赛 / 美国大学生数学建模竞赛（MCM/ICM），2025 年。
 
 # 技术能力
 
