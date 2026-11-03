@@ -20,11 +20,6 @@ main:
     url: "/#selected-competitions-en"
     url_zh: "/#selected-competitions-zh"
 
-  - title: "Education"
-    title_zh: "教育经历"
-    url: "/#education-en"
-    url_zh: "/#education-zh"
-
   - title: "Contact"
     title_zh: "联系方式"
     url: "/#contact-en"

@@ -118,42 +118,25 @@ Exploring multi-illumination visual information fusion methods for industrial su
 
 # Selected Competitions
 
-## Database Management System Design
+## Database Design — National College Student Computer Ability Competition
 
-*2026 | National College Student Computer Skills Competition — Database Design*
+*2026*
 
 **Award:** Third Prize (National Level)
 
-Designed and implemented core components of a database management system, covering storage, query execution, indexing, transaction management, concurrency control, and recovery.
+- **Project overview:** Designed and implemented a database management system covering storage, query execution, indexing, transaction management, concurrency control, and recovery.
 
-- Implemented the Disk Manager, Page, Buffer Pool Manager, and record management modules, using an LRU policy for page replacement and cache management.
-- Developed SQL DDL, DML, and DQL execution workflows, supporting projection, joins, subqueries, and aggregate queries.
-- Implemented unique indexes and index maintenance using B+ trees.
-- Implemented transaction commit and rollback, table-level shared and exclusive locks, wait-die concurrency control, and WAL-based REDO/UNDO recovery.
-- Optimized `COUNT(*)` queries, lock management, and index updates, and investigated memory leaks involving transaction, index-node, and logging objects.
+- **Core design:** Implemented disk, page, buffer-pool, and record management; SQL DDL, DML, and DQL execution; B+ tree indexes; transaction commit and rollback; table-level locking; wait-die concurrency control; and WAL-based REDO/UNDO recovery. Optimized `COUNT(*)` queries, lock management, and index updates.
 
-## From Confrontation to Symbiosis: An Analysis of the New Human–Land Relationship Based on the Agricultural Ecosystem Model
+## Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
 
-*Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM) | 2025*
+*2025*
 
 **Award:** Meritorious Winner (M Award)
 
-Developed an agricultural ecosystem modeling framework to study species interactions, ecosystem stability, and the ecological benefits of different agricultural practices.
+- **Project overview:** Built an agricultural ecosystem modeling framework to study species interactions, ecosystem stability, and the ecological benefits of different agricultural practices.
 
-- Constructed a food web using a logistic model and solved population-dynamics differential equations using the fourth-order Runge–Kutta method.
-- Developed a Logistic–Gaussian competition model to analyze population changes and interspecies competition following the reintroduction of native species.
-- Applied XGBoost binary classification to investigate the effects of ecological factors on system stability and used network analysis to evaluate the ecological contributions of different species.
-- Built an agricultural ecological-benefit evaluation model using the Analytic Hierarchy Process (AHP) to compare organic and conventional farming systems.
-
-<span class='anchor' id='education-en'></span>
-
-# Education
-
-## Nankai University
-
-*September 2024 – July 2028 (Expected)*
-
-Tianjin, China
+- **Core design:** Constructed food-web and Logistic–Gaussian competition models, solved population dynamics with fourth-order Runge–Kutta, used XGBoost and network analysis to study ecological factors, and applied AHP to compare agricultural systems.
 
 # Technical Skills
 
@@ -162,11 +145,6 @@ Tianjin, China
 - **Frontend and Desktop Development:** React, TypeScript, Vite, Electron, Redux.
 - **Data Visualization and Rendering:** Apache ECharts, KaTeX, Shiki, Mermaid.
 - **Research Areas:** Computer Vision, Anomaly Detection, Diffusion Models, Multimodal Large Language Models, Affective Computing.
-
-# Languages
-
-- **Chinese:** Native.
-- **English:** CET-6.
 
 <span class='anchor' id='contact-en'></span>
 
@@ -283,42 +261,25 @@ Tianjin, China
 
 # 竞赛经历
 
-## 数据库管理系统设计
+## 全国大学生计算机能力大赛：数据库设计
 
-*2026 年｜全国大学生计算机技能竞赛——数据库设计*
+*2026 年*
 
 **奖项：** 全国三等奖
 
-设计并实现数据库管理系统的核心组件，覆盖存储、查询执行、索引、事务管理、并发控制和恢复。
+- **项目概述：** 设计并实现数据库管理系统，覆盖存储、查询执行、索引、事务管理、并发控制和恢复。
 
-- 实现磁盘管理器、页面、缓冲池管理器和记录管理模块，使用 LRU 策略进行页面替换和缓存管理。
-- 开发 SQL DDL、DML 和 DQL 执行流程，支持投影、连接、子查询和聚合查询。
-- 使用 B+ 树实现唯一索引和索引维护。
-- 实现事务提交与回滚、表级共享锁与排他锁、wait-die 并发控制，以及基于 WAL 的 REDO/UNDO 恢复。
-- 优化 `COUNT(*)` 查询、锁管理和索引更新，并排查事务、索引节点和日志对象相关的内存泄漏。
+- **核心设计：** 实现磁盘、页面、缓冲池和记录管理，支持 SQL DDL、DML、DQL 执行与 B+ 树索引；实现事务提交与回滚、表级锁、wait-die 并发控制和基于 WAL 的 REDO/UNDO 恢复，并优化 `COUNT(*)` 查询、锁管理和索引更新。
 
-## 从对抗到共生：基于农业生态系统模型的新型人地关系分析
+## 美国大学生数学建模竞赛（MCM/ICM）
 
-*数学建模竞赛 / 美国大学生数学建模竞赛（MCM/ICM）｜年份待补充*
+*2025 年*
 
 **奖项：** Meritorious Winner（M 奖）
 
-构建农业生态系统建模框架，研究物种相互作用、生态系统稳定性和不同农业实践的生态效益。
+- **项目概述：** 构建农业生态系统建模框架，研究物种相互作用、生态系统稳定性和不同农业实践的生态效益。
 
-- 使用 Logistic 模型构建食物网，并通过四阶 Runge–Kutta 方法求解种群动力学微分方程。
-- 构建 Logistic–Gaussian 竞争模型，分析本土物种重新引入后的种群变化与种间竞争。
-- 使用 XGBoost 二分类研究生态因素对系统稳定性的影响，并通过网络分析评估不同物种的生态贡献。
-- 使用层次分析法（AHP）构建农业生态效益评价模型，对比有机农业和传统农业系统。
-
-<span class='anchor' id='education-zh'></span>
-
-# 教育经历
-
-## 南开大学
-
-*2024 年 9 月 – 2028 年 7 月（预计）*
-
-中国，天津
+- **核心设计：** 构建食物网和 Logistic–Gaussian 竞争模型，使用四阶 Runge–Kutta 求解种群动力学，结合 XGBoost、网络分析和层次分析法（AHP）评估生态因素与农业系统效益。
 
 # 技术能力
 
@@ -327,11 +288,6 @@ Tianjin, China
 - **前端与桌面开发：** React、TypeScript、Vite、Electron、Redux。
 - **数据可视化与渲染：** Apache ECharts、KaTeX、Shiki、Mermaid。
 - **研究方向：** 计算机视觉、异常检测、扩散模型、多模态大语言模型、情感计算。
-
-# 语言能力
-
-- **中文：** 母语。
-- **英文：** CET-6。
 
 <span class='anchor' id='contact-zh'></span>
 
