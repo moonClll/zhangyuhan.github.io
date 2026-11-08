@@ -41,7 +41,7 @@ My current research focuses on three directions: unsupervised anomaly detection 
 
 ### Psychology-Skill-Driven Continuous Visual Emotion Analysis
 
-*CVPR 2027 submission · March 2026 – Present*
+*CVPR 2027 submission · Third author · March 2026 – Present*
 
 Researching psychology-theory-driven methods for multimodal large language models to estimate continuous emotions from images, improving emotion estimation accuracy and interpretability.
 
@@ -61,7 +61,7 @@ Researching psychology-theory-driven methods for multimodal large language model
 
 ### A General-Purpose Agent for Affective Image Generation and Editing
 
-*CVPR 2027 submission · March 2026 – Present*
+*CVPR 2027 submission · fifth author · March 2026 – Present*
 
 Researching affective image editing methods that combine reinforcement learning with dual verification mechanisms to jointly optimize target emotion enhancement and visual content fidelity.
 
@@ -184,7 +184,7 @@ Exploring multi-illumination visual information fusion methods for industrial su
 
 ### 心理学技能驱动的连续视觉情绪分析
 
-*CVPR 2027 投稿 · 2026 年 3 月 – 至今*
+*CVPR 2027 投稿 · 第三作者 ·2026 年 3 月 – 至今*
 
 研究心理学理论驱动的多模态大语言模型图像连续情感估计方法，提升情感估计的准确性与可解释性。
 
@@ -204,7 +204,7 @@ Exploring multi-illumination visual information fusion methods for industrial su
 
 ### 通用型情感图像生成与编辑智能体
 
-*CVPR 2027 投稿 · 2026 年 3 月 – 至今*
+*CVPR 2027 投稿 · 第五作者 · 2026 年 3 月 – 至今*
 
 研究强化学习与双重验证机制的图像情感编辑方法，实现目标情绪增强与视觉内容保真的协同优化。
 
@@ -224,7 +224,7 @@ Exploring multi-illumination visual information fusion methods for industrial su
 
 ### 面向多光照异常检测的外观–几何协同重建
 
-*IEEE CASE 2026 · 第三作者 · 2025 年 9 月 – 2026 年 3 月*
+  *IEEE CASE 2026 · 第三作者 · 2025 年 9 月 – 2026 年 3 月*
 
 探索在复杂光照下工业表面异常检测的多光照视觉信息融合方法，提升微小缺陷检测与定位能力。
 
